@@ -61,8 +61,6 @@ Installation:
 
 -Clone repository
 
--Ensure C++ files are working correctly using Xcode
-
 -Build and run on an iOS simulator/device (School Ipad)
 
 
