@@ -12,6 +12,7 @@ struct JDHSTutorProgramApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
