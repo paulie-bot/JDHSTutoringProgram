@@ -67,9 +67,11 @@ struct ContentView: View {
                     .font(.system(size: 25))
                 
                 Button("Request A Tutor") {
+                    print(my_c_function(1))
                 }
                 .offset(y:-493+(offset_amount-100))
                 .font(.system(size: 25))
+                
                 
                 Button("Request To Become A Tutor") {
                 }
